@@ -93,5 +93,6 @@
 ### type=hidden隐藏域有什么作用? 举例说明
     
     
+    
 
 [CSRF 详解与攻防实战](http://www.tuicool.com/articles/Z3eYraY)
