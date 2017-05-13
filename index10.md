@@ -133,5 +133,6 @@
         - 一个box的top margin与其自身的bottom margin，但须满足没创建BFC、零min-height、零或者“auto”的height、没有普通流的子元素。
    - 例外的情况
        - 根元素的外边距不会参与折叠
+       - 不设置任何属性的空span和空div不影响任何布局，可以无视之。
    
    
